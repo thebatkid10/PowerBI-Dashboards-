@@ -1,5 +1,5 @@
 
-# ElectroHub Sales Data Analysis
+# Sales Data Analysis
 
 ## Overview
 An interactive sales dashboard for ElectroHub, a retail electronics business.  
